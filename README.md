@@ -17,12 +17,35 @@ The primary objective of this project is to collect data pertaining to the deter
 ### Tools Used
 ![Screenshot 2022-09-03 230235](https://user-images.githubusercontent.com/71536311/188284725-a99e99dc-0b32-4819-87bf-e3cbd9f1d966.png) ![Screenshot 2022-09-04 075903](https://user-images.githubusercontent.com/71536311/188296743-ade5d961-8d00-42b2-8348-8695b8ff2e34.png)![Screenshot 2022-09-04 081242](https://user-images.githubusercontent.com/71536311/188297252-27f1c2d2-8b62-43d6-be54-84a707d21cb2.png)
 
-## Implementation
+### Implementation
 The project is implemented in four stages:
 -	Collection of data 
 -	Import the data into MongoDB
 -	Design a data analysis program in R using RStudio to create some visual representation of the data
 -	Present the results of the analysis using web pages
+
+## Overview
+
+The dataset contains:
+-	Two categorical variables:
+    - State
+    -	Year
+   
+-	Ten numerical variables:
+    -	Population Density per sqkm – Population per unit area
+    -	People with air borne diseases – Count of people admitted to hospital due to air 
+borne diseases
+    -	Industries – Count of Industries
+    -	Vehicles – Count of vehicles in thousands
+    -	Birth-rate - Live births per thousand population per year
+    -	Death rate - Number of deaths per thousand population per year
+    -	Forest cover – Land area that is covered by forests or the forest canopy or open 
+woodland in square kilometers.
+    -	SO2 – Concentration of Sulphur dioxide
+    -	N02 – Concentration of Nitrogen dioxide
+    -	PM – Particulate Matter Concentrations.
+
+The complete dataset has 25 rows and 12 columns and is stored in a csv file named pollution.csv.
 
 
 
