@@ -41,11 +41,14 @@ borne diseases
     -	Death rate - Number of deaths per thousand population per year
     -	Forest cover – Land area that is covered by forests or the forest canopy or open 
 woodland in square kilometers.
-    -	SO2 – Concentration of Sulphur dioxide
-    -	N02 – Concentration of Nitrogen dioxide
+    -	SO<sub>2</sub> – Concentration of Sulphur dioxide
+    -	NO<sub>2</sub> – Concentration of Nitrogen dioxide
     -	PM – Particulate Matter Concentrations.
 
 The complete dataset has 25 rows and 12 columns and is stored in a csv file named pollution.csv.
+
+
+
 
 
 
