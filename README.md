@@ -47,7 +47,7 @@ woodland in square kilometers.
 
 The complete dataset has 25 rows and 12 columns and is stored in a csv file named pollution.csv.
 
-![Synopsis](https://user-images.githubusercontent.com/71536311/188313518-edaab002-9583-4d83-9aee-4b5d3ed63957.jpg)
+![Synopsis](https://user-images.githubusercontent.com/71536311/188313780-38a8a4b9-2816-4cd9-aed0-dd0d83cc5463.png)
 
 
 
