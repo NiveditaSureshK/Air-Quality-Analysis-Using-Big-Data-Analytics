@@ -15,4 +15,14 @@ The primary objective of this project is to collect data pertaining to the deter
 - The concentration of particulate matter in the air (NO₂,SO₂,PM)
 
 ### Tools Used
-![Screenshot 2022-09-03 230235](https://user-images.githubusercontent.com/71536311/188284725-a99e99dc-0b32-4819-87bf-e3cbd9f1d966.png)
+![Screenshot 2022-09-03 230235](https://user-images.githubusercontent.com/71536311/188284725-a99e99dc-0b32-4819-87bf-e3cbd9f1d966.png) ![Screenshot 2022-09-04 075903](https://user-images.githubusercontent.com/71536311/188296743-ade5d961-8d00-42b2-8348-8695b8ff2e34.png)![Screenshot 2022-09-04 081242](https://user-images.githubusercontent.com/71536311/188297252-27f1c2d2-8b62-43d6-be54-84a707d21cb2.png)
+
+## Implementation
+The project is implemented in four stages:
+-	Collection of data 
+-	Import the data into MongoDB
+-	Design a data analysis program in R using RStudio to create some visual representation of the data
+-	Present the results of the analysis using web pages
+
+
+
