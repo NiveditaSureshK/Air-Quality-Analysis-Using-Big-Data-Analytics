@@ -27,23 +27,23 @@ The project is implemented in four stages:
 ## Overview
 
 The dataset contains:
--	Two categorical variables:
-    - State
-    -	Year
+- ***Two categorical variables:***
+    - **State**
+    -	**Year**
    
--	Ten numerical variables:
-    -	Population Density per sqkm – Population per unit area
-    -	People with air borne diseases – Count of people admitted to hospital due to air 
+-	***Ten numerical variables:***
+    -	**Population Density per sqkm** – Population per unit area
+    -	**People with air borne diseases** – Count of people admitted to hospital due to air 
 borne diseases
-    -	Industries – Count of Industries
-    -	Vehicles – Count of vehicles in thousands
-    -	Birth-rate - Live births per thousand population per year
-    -	Death rate - Number of deaths per thousand population per year
-    -	Forest cover – Land area that is covered by forests or the forest canopy or open 
+    -	**Industries** – Count of Industries
+    -	**Vehicles** – Count of vehicles in thousands
+    -	**Birth-rate** - Live births per thousand population per year
+    -	**Death rate** - Number of deaths per thousand population per year
+    -	**Forest cover** – Land area that is covered by forests or the forest canopy or open 
 woodland in square kilometers.
-    -	SO<sub>2</sub> – Concentration of Sulphur dioxide
-    -	NO<sub>2</sub> – Concentration of Nitrogen dioxide
-    -	PM – Particulate Matter Concentrations.
+    -	**SO<sub>2</sub>** – Concentration of Sulphur dioxide
+    -	**NO<sub>2</sub>** – Concentration of Nitrogen dioxide
+    -	**PM** – Particulate Matter Concentrations.
 
 The complete dataset has 25 rows and 12 columns and is stored in a csv file named pollution.csv.
 
