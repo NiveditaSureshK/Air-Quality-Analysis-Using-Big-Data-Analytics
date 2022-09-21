@@ -63,7 +63,7 @@ The project is implemented in four stages:
 ### Conclusion
 From the above analysis, we can conclude that:
 
-- During the years 2008-2012, air pollution was most prevalent in the northern region, particularly Delhi, which has become extremely polluted and requires immediate action.
+- During the years 2008-2012, air pollution was most prevalent in the northern region, particularly Delhi, which has become extremely polluted and requires immediate attention.
 
 - While Karnataka initially had lower levels of pollutants in the atmosphere (2008-2009) than other states (Delhi, Karnataka, Kerala), the levels steadily increased between 2010 and 2012. In large part, this is due to the increase in population density per square km, industries, vehicles, and the concentration of pollutants in the air.
 
