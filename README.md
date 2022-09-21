@@ -40,6 +40,9 @@ The complete dataset has 25 rows and 12 columns and is stored in a csv file name
 ### Tools Used
 ![Screenshot 2022-09-03 230235](https://user-images.githubusercontent.com/71536311/188284725-a99e99dc-0b32-4819-87bf-e3cbd9f1d966.png) ![Screenshot 2022-09-04 075903](https://user-images.githubusercontent.com/71536311/188296743-ade5d961-8d00-42b2-8348-8695b8ff2e34.png)![Screenshot 2022-09-04 081242](https://user-images.githubusercontent.com/71536311/188297252-27f1c2d2-8b62-43d6-be54-84a707d21cb2.png)
 
+- Utilized mongolite package, a high-performing MongoDB client for R based on "mongo-c-driver" and "jsonlite" for fast retrieval and analysis of big data, with a flexible schema that makes it a natural choice for unstructured data.
+- Preprocessed the data, manipulated it into a structured form, and presented the results using R.
+
 ### Implementation
 The project is implemented in four stages:
 -	Collection of data 
@@ -50,6 +53,14 @@ The project is implemented in four stages:
 ### Some Exciting Glimpse of the Visuals
 
 ![Synopsis](https://user-images.githubusercontent.com/71536311/188313780-38a8a4b9-2816-4cd9-aed0-dd0d83cc5463.png)
+![Dataset](https://user-images.githubusercontent.com/71536311/191474794-d98c8b89-d6d4-4365-88e0-07fba400ca2b.png)
+![Viewbystate](https://user-images.githubusercontent.com/71536311/191475331-bc0de629-c71d-40ed-8c7a-12d971af5555.png)
+![Viewbyyear](https://user-images.githubusercontent.com/71536311/191481332-9076059c-016a-4f29-8b85-1afa64373e0e.png)
+![Viewbyfactors](https://user-images.githubusercontent.com/71536311/191475968-f74e81ce-ece0-413a-a451-5eb1979d5d11.png)
+![Pollutionlevelanalysis](https://user-images.githubusercontent.com/71536311/191476140-f7db7703-0b57-403d-9dc0-4ce6fa5027a7.png)
+![PlAnalysis2](https://user-images.githubusercontent.com/71536311/191481537-8cc8acce-0016-47bb-92f0-beb16db49e4c.png)
+
+
 
 
 
