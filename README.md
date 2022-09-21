@@ -60,7 +60,20 @@ The project is implemented in four stages:
 ![Pollutionlevelanalysis](https://user-images.githubusercontent.com/71536311/191476140-f7db7703-0b57-403d-9dc0-4ce6fa5027a7.png)
 ![PlAnalysis2](https://user-images.githubusercontent.com/71536311/191481537-8cc8acce-0016-47bb-92f0-beb16db49e4c.png)
 
+### Conclusion
+From the above analysis, we can conclude that:
 
+- During the years 2008-2012, air pollution was most prevalent in the northern region, particularly Delhi, which has become extremely polluted and requires immediate action.
+
+- While Karnataka initially had lower levels of pollutants in the atmosphere (2008-2009) than other states (Delhi, Karnataka, Kerala), the levels steadily increased between 2010 and 2012. In large part, this is due to the increase in population density per square km, industries, vehicles, and the concentration of pollutants in the air.
+
+- Pollution in Kerala was moderate in the early stages of the crisis (2008), but was controlled later (2009 - 2011). The decrease may be attributed to citizens' awareness and government policies.
+
+- Between 2008 and 2012, Rajasthan's air pollution levels skyrocketed due to an increase in population density per square km, industries, vehicles, and particulate matter concentrations.
+
+- While pollution levels in Sikkim have remained constant from 2008-2011, they increased by a very small factor in 2012, a factor that is attributable to the steady growth of industry, population and vehicles.
+
+In light of the above data analysis approach, we conclude that data analysis is crucial to a better future. A striking aspect of this discussion is how data analysis and day-to-day instances are coherent, as well as how significant problems can be resolved by using data analysis.
 
 
 
