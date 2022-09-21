@@ -38,7 +38,8 @@ woodland in square kilometers.
 The complete dataset has 25 rows and 12 columns and is stored in a csv file named pollution.csv.
 
 ### Tools Used
-![Screenshot 2022-09-03 230235](https://user-images.githubusercontent.com/71536311/188284725-a99e99dc-0b32-4819-87bf-e3cbd9f1d966.png) ![Screenshot 2022-09-04 075903](https://user-images.githubusercontent.com/71536311/188296743-ade5d961-8d00-42b2-8348-8695b8ff2e34.png)![Screenshot 2022-09-04 081242](https://user-images.githubusercontent.com/71536311/188297252-27f1c2d2-8b62-43d6-be54-84a707d21cb2.png)
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,r,html,css,js)](https://skills.thijs.gg)
+
 
 - Utilized mongolite package, a high-performing MongoDB client for R based on "mongo-c-driver" and "jsonlite" for fast retrieval and analysis of big data, with a flexible schema that makes it a natural choice for unstructured data.
 - Preprocessed the data, manipulated it into a structured form, and presented the results using R.
