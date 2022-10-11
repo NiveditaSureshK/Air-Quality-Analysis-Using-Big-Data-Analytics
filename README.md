@@ -40,15 +40,15 @@ The complete dataset has 25 rows and 12 columns and is stored in a csv file name
 ### Tools Used
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp;[![My Skills](https://skills.thijs.gg/icons?i=mongodb,r,html,css,js)](https://skills.thijs.gg)
 
-- Five Indian states are analysed over the period of 2008-2012, namely Delhi, Karnataka, Kerala, Rajasthan, and Sikkim. Data is collected from different sources and recorded in a CSV file.
-- Utilized mongolite package, a high-performing MongoDB client for R based on "mongo-c-driver" and "jsonlite" for fast retrieval and analysis of big data, with a flexible schema that makes it a natural choice for unstructured data.
-- Preprocessed the data, manipulated it into a structured form, and presented the results using R.
+- Five Indian states are analysed over the period of 2008-2012, namely Delhi, Karnataka, Kerala, Rajasthan, and Sikkim. Data is collected from different sources and recorded in a **CSV** file.
+- Utilized **mongolite package**, a high-performing **MongoDB client for R** based on **"mongo-c-driver"** and **"jsonlite"** for fast retrieval and analysis of big data, with a flexible schema that makes it a natural choice for unstructured data.
+- Preprocessed the data, manipulated it into a structured form, and presented the results using **R**.
 
 ### Implementation
 The project is implemented in four stages:
 -	Collection of data 
--	Import the data into MongoDB
--	Design a data analysis program in R using RStudio to create some visual representation of the data
+-	Import the data into **MongoDB**
+-	Design a data analysis program in **R** using **RStudio** to create some visual representation of the data
 -	Present the results of the analysis using web pages
 
 ### Some Exciting Glimpse of the Visuals
@@ -75,9 +75,3 @@ From the above analysis, we can conclude that:
 - While pollution levels in ***Sikkim have remained constant from 2008-2011, they increased by a very small factor in 2012***, a factor that is attributable to the steady growth of industry, population and vehicles.
 
 In light of the above data analysis approach, we conclude that data analysis is crucial to a better future. A striking aspect of this discussion is how data analysis and day-to-day instances are coherent, as well as how significant problems can be resolved by using data analysis.
-
-
-
-
-
-
