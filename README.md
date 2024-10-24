@@ -38,7 +38,7 @@ woodland in square kilometers.
 The complete dataset has 25 rows and 12 columns and is stored in a csv file named pollution.csv.
 
 ### Tools Used
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp;[![My Skills](https://skills.thijs.gg/icons?i=mongodb,r,html,css,js)](https://skills.thijs.gg)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp;[[![My Skills](https://skills.thijs.gg/icons?i=mongodb,r,html,css,js)](https://skills.thijs.gg)](https://github.com/NiveditaSureshK/NiveditaSureshK/edit/main/README.md)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 - Five Indian states are analysed over the period of 2008-2012, namely Delhi, Karnataka, Kerala, Rajasthan, and Sikkim. Data is collected from different sources and recorded in a **CSV** file.
 - Utilized **mongolite package**, a high-performing **MongoDB client for R** based on **"mongo-c-driver"** and **"jsonlite"** for fast retrieval and analysis of big data, with a flexible schema that makes it a natural choice for unstructured data.
